@@ -158,9 +158,10 @@ img {
     font-size: 5rem;
     padding: 5vw;
     height: 5px;
-    display: flexbox;
+    display: flex;
     justify-content: center;
     align-content: center;
+    align-items: center;
 
 }
 
